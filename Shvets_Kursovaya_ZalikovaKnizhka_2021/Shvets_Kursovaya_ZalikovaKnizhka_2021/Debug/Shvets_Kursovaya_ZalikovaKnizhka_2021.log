@@ -1,0 +1,6 @@
+﻿  Ekzamen.cpp
+C:\Users\gambo\source\repos\Shvets_Kursovaya_ZalikovaKnizhka_2021\Shvets_Kursovaya_ZalikovaKnizhka_2021\Ekzamen.cpp(79,13): warning C4101: 'errorNum': unreferenced local variable
+C:\Users\gambo\source\repos\Shvets_Kursovaya_ZalikovaKnizhka_2021\Shvets_Kursovaya_ZalikovaKnizhka_2021\Ekzamen.cpp(94,14): warning C4101: 'errorNum': unreferenced local variable
+C:\Users\gambo\source\repos\Shvets_Kursovaya_ZalikovaKnizhka_2021\Shvets_Kursovaya_ZalikovaKnizhka_2021\Ekzamen.cpp(139,13): warning C4101: 'errorNum': unreferenced local variable
+C:\Users\gambo\source\repos\Shvets_Kursovaya_ZalikovaKnizhka_2021\Shvets_Kursovaya_ZalikovaKnizhka_2021\Ekzamen.cpp(155,13): warning C4101: 'errorNum': unreferenced local variable
+  Shvets_Kursovaya_ZalikovaKnizhka_2021.vcxproj -> C:\Users\gambo\source\repos\Shvets_Kursovaya_ZalikovaKnizhka_2021\Debug\Shvets_Kursovaya_ZalikovaKnizhka_2021.exe
